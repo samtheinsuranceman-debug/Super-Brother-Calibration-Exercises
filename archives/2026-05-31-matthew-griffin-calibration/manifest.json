@@ -1,0 +1,19 @@
+{
+  "created": "2026-05-31T21:02:34",
+  "title": "Matthew Griffin Calibration Backup Q1-Q100",
+  "completed_through": "Question 100",
+  "next_question": "Question 101",
+  "core_formula": "John\u2019s Questionfield + Sam\u2019s Coachingfield + Matthew\u2019s Guardian Witness = cleaner momentum",
+  "files": [
+    "README.md",
+    "01_EXECUTIVE_SUMMARY.md",
+    "02_CORE_OPERATING_RULES.md",
+    "03_THE_GRIFFIN_BROTHERFORM.md",
+    "04_TRIFIELD_MODEL.md",
+    "05_GLOSSARY_CORE_TERMS.md",
+    "06_QUESTION_PROGRESS.md",
+    "07_MAJOR_BREAKTHROUGHS.md",
+    "08_GITHUB_UPLOAD_INSTRUCTIONS.md",
+    "09_NEXT_STEPS.md"
+  ]
+}
